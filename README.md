@@ -1,1 +1,1 @@
-# DiceRoler-Kotlin
+# DiceRoller-Kotlin
